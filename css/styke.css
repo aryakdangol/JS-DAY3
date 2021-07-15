@@ -1,0 +1,45 @@
+.container{
+    max-width: 80%;
+}
+
+.chl3{
+    width: 100%;
+}
+
+.chl3 img{
+    width: 25%;
+    height: 35%;
+     margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+
+.chl3-choice img{
+    width: 25%;
+    height: 35%;
+     margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.row-1{
+    display: flex;
+    border: 2px solid black;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 90%;
+    justify-content: space-around;
+}
+
+.row-1 div{
+    border: 2px solid;
+    padding: 1rem;
+    height: 400px;
+    flex: 1;
+    text-align: center;
+}
+
+.row-1 img{
+    width: 25%;
+    padding: 1rem;
+}
